@@ -1,0 +1,19 @@
+<section id="papers">
+  <h2>Publications</h2>
+  <ul>
+    <li>
+      <a href="link-to-your-paper.pdf" target="_blank">Title of Your Paper</a>
+      <p>Description of your paper and its significance.</p>
+    </li>
+    <!-- Add more papers as needed -->
+  </ul>
+
+   <h2>Conferences</h2>
+  <ul>
+    <li>
+      <a href="link-to-your-paper.pdf" target="_blank">Title of Your Paper</a>
+      <p>Description of your paper and its significance.</p>
+    </li>
+    <!-- Add more papers as needed -->
+  </ul>
+</section>
